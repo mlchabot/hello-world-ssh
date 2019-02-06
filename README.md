@@ -1,1 +1,1 @@
-# hello-world-ssh
+# Practice repository for ssh
